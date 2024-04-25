@@ -1,0 +1,7 @@
+.stButton> button:focus {
+    background-color: #269A96 !important;
+    color: #FFFFFF !important;
+}
+.stButton> button:focus::before {
+    border-color: #269A96 !important;
+}
